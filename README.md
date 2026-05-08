@@ -1,10 +1,11 @@
 # 💫 Hi 👋, I'm Gaurav Verma
-**A passionate Software Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Software Engineer || AI Tech Explorer || Web Development
 
 Email Me 👉 ✉️ **www.anshu45sai@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Personal Assisstent(Like an AI)
-- 🌱 **I’m currently learning:** Computer Science Engineering
+- 🌱 **I’m currently persuing:** Computer Science Engineering(3rd Year)
+- ⚡ Certifications** AWS Machine Learning Foundations & TCS iON Gen-AI
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Personal AI
 - 💬 **Ask me about:** Collaboration, Tech Support
